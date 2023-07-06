@@ -1,2 +1,2 @@
-# Twitter_data_cleaning_and_easy_analysis
-'Statistics for Social Sciences' class assignment.
+# Tweet preprocessing and visualization
+Assignment for 'Statistics for Social Sciences' course.
